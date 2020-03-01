@@ -19,3 +19,10 @@ Solutions of Programming assignments given during the course.
 	- [Week 3 - PA 5 - Tensorflow Tutorial](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Tensorflow%2BTutorial.ipynb)
 - #### Course 3 - Structuring Machine Learning Projects
 	This course doesn't have any Programming Assignments.
+	
+- #### Course 4: Convolutional Neural Networks
+     : To be done.
+
+- #### Course 5: Sequence Models
+     : To be done.
+ 
