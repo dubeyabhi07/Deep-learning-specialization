@@ -16,12 +16,14 @@ Solutions of Programming assignments given during the course.
 	- [Week 1 - Assignment 2 - Regularization](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Regularization%2B-%2Bv2.ipynb)
 	- [Week 1 - Assignment 3 - Gradient Checking](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Gradient%2BChecking%2Bv1.ipynb)
 	- [Week 2 - Assignment 4 - Optimization](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Optimization%2Bmethods.ipynb)
-	- [Week 3 - PA 5 - Tensorflow Tutorial](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Tensorflow%2BTutorial.ipynb)
+	- [Week 3 - Assignment 5 - Tensorflow Tutorial](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/Tensorflow%2BTutorial.ipynb)
 - #### Course 3 - Structuring Machine Learning Projects
 	This course doesn't have any Programming Assignments.
 	
-- #### Course 4: Convolutional Neural Networks
-     : To be done.
+- #### Course 4 - Convolutional Neural Networks
+	- [Week 1 - Assignment 1 - Convolutional Model: step by step](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/week1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+	- [Week 1 - Assignment 2 - Convolutional Model: Application](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+	- [Week 3 - PA 5 - Car detection with YOLOv2](https://github.com/abhijais04/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
 - #### Course 5: Sequence Models
      : To be done.
