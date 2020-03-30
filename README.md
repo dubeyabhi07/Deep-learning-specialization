@@ -23,7 +23,12 @@ Solutions of Programming assignments given during the course.
 - #### Course 4 - Convolutional Neural Networks
 	- [Week 1 - Assignment 1 - Convolutional Model: step by step](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
 	- [Week 1 - Assignment 2 - Convolutional Model: Application](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+	- [Week 2 - Assignment 3 - Keras Tutorial (not graded)](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+	- [Week 2 - Assignment 4 - Residual Networks](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week2/Residual%2BNetworks%2B-%2Bv2.ipynb)
 	- [Week 3 - Assignment 5 - Car detection with YOLOv2](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+	- [Week 4 - Assignment 6 - Art generation with Neural Style Transfer](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+	- [Week 4 - Assignment 7 - Face Recognition for the Happy House](https://github.com/dubeyabhi07/Deep-learning-specialization/blob/master/Convolutional%20Neural%20Networks/week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+	
 
 - #### Course 5: Sequence Models
      : To be done.
