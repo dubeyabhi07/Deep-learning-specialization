@@ -31,5 +31,6 @@ Solutions of Programming assignments given during the course.
 	
 
 - #### Course 5: Sequence Models
-     : To be done.
+     - [Week 1 - Assignment 1 - Building RNN step-by-step](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%201/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+     - [Week 1 - Assignment 2 - Dinasour Island character level language model](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%201/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
  
