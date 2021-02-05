@@ -35,4 +35,6 @@ Solutions of Programming assignments given during the course.
      - [Week 1 - Assignment 2 - Dinasour Island character level language model](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%201/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
      - [Week 2 - Assignment 1 - Operation on word vectors](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%202/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
      - [Week 2 - Assignment 2 - Emojify](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%202/Emojify%2B-%2Bv2.ipynb)
+     - [Week 3 - Assignment 1 - Neural machine translation with attention](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%203/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+     - [Week 3 - Assignment 2 - Trigger word detection](https://github.com/dubeyabhi07/deep-learning-specialization/blob/master/Sequence%20Models/Week%203/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
  
